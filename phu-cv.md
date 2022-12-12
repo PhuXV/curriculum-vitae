@@ -6,7 +6,7 @@
 |-------:|:--------|
 | E-mail | phu.xv97@gmail.com |
 | Phone | +84 867128116  |
-| LinkedIn | https://www.linkedin.com/in/phu/ |
+| LinkedIn | https://www.linkedin.com/in/van-phu/ |
 
 ---
 
@@ -26,7 +26,8 @@ Finding a good environment where I can learn, share and grow up with
 
 ---
 
-### CERTIFICATIONS
+### CERTIFICATIONS![icon@2x](https://user-images.githubusercontent.com/59493358/207088397-d52a1152-2db8-4624-9a11-520762e34a50.png)
+
 
 - TOEIC 655
 - Gcloud assosiate 
