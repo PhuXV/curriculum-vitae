@@ -18,7 +18,7 @@ Finding a good environment where I can learn, share and grow up with.
 
 ### EDUCATION
 
-##### Hanoi University of Science and Technology - `Aug 2015 - Jun 2020`
+#### Hanoi University of Science and Technology - `Aug 2015 - Jun 2020`
 
 __Major__: Electronics and Computer Engineering	
 
@@ -35,6 +35,7 @@ __GPA__: 3.0/4
 ### Skills:
 
 __Core__: Git, Linux, Network, Docker, Kubernetes, GCP
+
 __Programing & scripting languages__: C/C++, Java, Groovy, Python, Shell & Bash script
 
 __Tools__: 
@@ -53,8 +54,11 @@ __Foreign languages__:
 ##### Project: __SKY newCRM( https://www.sky.com, https://www.sky.de  https://www.sky.at)__
 
 __Description__: A huge streaming platform in Europe with more 200 micro services and increasing 
-__Role: Devops engineer ( Mainly CICD)
+
+__Role__: Devops engineer ( Mainly CICD)
+
 __Team size__: ~ 30 members( 10 Vietnamese, 20 Germans)
+
 __Main responsibilities__:
 
 - Develop CICD Jenkins pipeline to deploy applications to GCP (GKE, cloud function...)
@@ -66,13 +70,18 @@ __Main responsibilities__:
 - Develop release strategy
 - Document and do some Tech talk sessions to share knowledge to other members
 
-#### Gobit Vietnam ( Korean outsourcing company ) - Backend Developer	Jul 2020 - Jun 2021
+#### Gobit Vietnam ( Korean outsourcing company ) - Backend Developer	`Jul 2020 - Jun 2021`
+
 ##### project: Zzapp, Pawsome (https://pawsome.kr/), Delivery App
+
 __Description__:  I had done 3 projects above, they are aplications and web applications for Korean custumer, each project took about 3 to 4 months to finish.
 
-__Role: Backend developer and also do frontend for Zzapp( Flutter) 
+__Role__: Backend developer and also do frontend for Zzapp( Flutter) 
+
 __Team size__: ~ 3~ 6 backend developers
+
 __Main responsibilities__:
+
 -	Design Database for projects
 -	Coding backend using Java Spring Boot
 -	Deploy backend server on Amazon Web Services (AWS)
